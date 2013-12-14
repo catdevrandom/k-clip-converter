@@ -3,7 +3,7 @@ v0.5.c (idleloop@yahoo.com, 201311)
 http://www.angelfire.com/ego2/idleloop/
 
 
-MBP file: KELH7VJTFPK53BQRS5V6XGH4STNMUNGW_PDOC.mbp
+MBP file: /home/maira/Downloads/input.mbp
 next free pointer: 45
 number of index table entries: 45
 number of marks: 15
@@ -13,7 +13,7 @@ should be MBP_User_Mark: MBP_User_Mark
 )
 ----------
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x107a5f0)
+ref MBP_User_Mark=HASH(0x1c96380)
 type: BPAR
 order in book: 0
 order of DATA blocks in index table: 0
@@ -27,7 +27,7 @@ DATA: 4250415200000038ffffffff0007ea2dffffffff0000002cffffffff0000007fb4a88d13dc
 ---BKMK block:
 ref: 
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x1206af0)
+ref MBP_User_Mark=HASH(0x1e1a890)
 type: UNKNOWN
 order in book: 
 order of DATA blocks in index table: 16
@@ -41,7 +41,7 @@ DATA: 4542415200000001000000004542565300000004b4a88d130000000100000008ffffffff00
 ---BKMK block:
 ref: 
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x1206c10)
+ref MBP_User_Mark=HASH(0x1e1a9b0)
 type: MARK
 order in book: 1
 order of DATA blocks in index table: 15
@@ -61,7 +61,7 @@ ref: MBP_User_Mark_BKMK
 index id: 43
 BKMK: 424b4d4b00000034000037cc0000381f000037cc0000dead00ffff00000000040000002affffffff00000029ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x1206b80)
+ref MBP_User_Mark=HASH(0x1e1a920)
 type: MARK
 order in book: 2
 order of DATA blocks in index table: 14
@@ -81,7 +81,7 @@ ref: MBP_User_Mark_BKMK
 index id: 40
 BKMK: 424b4d4b0000003400004b6800004bed00004b680000dead00ffff000000000400000027ffffffff00000026ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x1206c70)
+ref MBP_User_Mark=HASH(0x1e1aa10)
 type: MARK
 order in book: 3
 order of DATA blocks in index table: 13
@@ -101,7 +101,7 @@ ref: MBP_User_Mark_BKMK
 index id: 37
 BKMK: 424b4d4b000000340002928a0002931a0002928a0000dead00ffff000000000400000024ffffffff00000023ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x12072d0)
+ref MBP_User_Mark=HASH(0x1e1b070)
 type: MARK
 order in book: 4
 order of DATA blocks in index table: 12
@@ -121,7 +121,7 @@ ref: MBP_User_Mark_BKMK
 index id: 34
 BKMK: 424b4d4b000000340002ed6c0002edbb0002ed6c0000dead00ffff000000000400000021ffffffff00000020ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x12070f0)
+ref MBP_User_Mark=HASH(0x1e1ae90)
 type: MARK
 order in book: 5
 order of DATA blocks in index table: 11
@@ -141,7 +141,7 @@ ref: MBP_User_Mark_BKMK
 index id: 31
 BKMK: 424b4d4b000000340003897f00038a440003897f0000dead00ffff00000000040000001effffffff0000001dffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x12075e8)
+ref MBP_User_Mark=HASH(0x1e1b388)
 type: MARK
 order in book: 6
 order of DATA blocks in index table: 10
@@ -161,7 +161,7 @@ ref: MBP_User_Mark_BKMK
 index id: 28
 BKMK: 424b4d4b00000034000421330004214e000421330000dead00ffff00000000040000001bffffffff0000001affffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x1207780)
+ref MBP_User_Mark=HASH(0x1e1b520)
 type: MARK
 order in book: 7
 order of DATA blocks in index table: 9
@@ -181,7 +181,7 @@ ref: MBP_User_Mark_BKMK
 index id: 25
 BKMK: 424b4d4b000000340004227200042366000422720000dead00ffff000000000400000018ffffffff00000017ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x120e390)
+ref MBP_User_Mark=HASH(0x1e22130)
 type: MARK
 order in book: 8
 order of DATA blocks in index table: 8
@@ -201,7 +201,7 @@ ref: MBP_User_Mark_BKMK
 index id: 22
 BKMK: 424b4d4b0000003400043d2e00043d6700043d2e0000dead00ffff000000000400000015ffffffff00000014ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x120e528)
+ref MBP_User_Mark=HASH(0x1e222c8)
 type: MARK
 order in book: 9
 order of DATA blocks in index table: 7
@@ -221,7 +221,7 @@ ref: MBP_User_Mark_BKMK
 index id: 19
 BKMK: 424b4d4b0000003400045fb000045ff200045fb00000dead00ffff000000000400000012ffffffff00000011ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x120e6c0)
+ref MBP_User_Mark=HASH(0x1e22460)
 type: MARK
 order in book: 10
 order of DATA blocks in index table: 6
@@ -241,7 +241,7 @@ ref: MBP_User_Mark_BKMK
 index id: 16
 BKMK: 424b4d4b0000003400048a8000048b5900048a800000dead00ffff00000000040000000fffffffff0000000effffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x120e858)
+ref MBP_User_Mark=HASH(0x1e225f8)
 type: MARK
 order in book: 11
 order of DATA blocks in index table: 5
@@ -261,7 +261,7 @@ ref: MBP_User_Mark_BKMK
 index id: 13
 BKMK: 424b4d4b0000003400058ce700058d1500058ce70000dead00ffff00000000040000000cffffffff0000000bffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x120e9f0)
+ref MBP_User_Mark=HASH(0x1e22790)
 type: MARK
 order in book: 12
 order of DATA blocks in index table: 4
@@ -281,7 +281,7 @@ ref: MBP_User_Mark_BKMK
 index id: 10
 BKMK: 424b4d4b000000340006495f0006497b0006495f0000dead00ffff000000000400000009ffffffff00000008ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x120eb88)
+ref MBP_User_Mark=HASH(0x1e22928)
 type: MARK
 order in book: 13
 order of DATA blocks in index table: 3
@@ -301,7 +301,7 @@ ref: MBP_User_Mark_BKMK
 index id: 7
 BKMK: 424b4d4b0000003400068d0200068d4a00068d020000dead00ffff000000000400000006ffffffff00000005ffffffffffffffffffffffffffffffff
 --------------------------------------------------
-ref MBP_User_Mark=HASH(0x107a7a0)
+ref MBP_User_Mark=HASH(0x1c96530)
 type: NOTE
 order in book: 14
 order of DATA blocks in index table: 2
