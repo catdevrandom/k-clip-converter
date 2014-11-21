@@ -5,3 +5,8 @@
 
 # backup files
 *~
+
+#MBP_reader temp files
+mbp.*.txt
+mbp.*.out
+input.mbp_notes.txt
