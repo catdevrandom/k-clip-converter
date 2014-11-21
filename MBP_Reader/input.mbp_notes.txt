@@ -1,9 +1,0 @@
-MBP file reader
-v0.5.c (idleloop@yahoo.com, 201311)
-http://www.angelfire.com/ego2/idleloop/
-
-
-MBP file: input.mbp
-
-number of marks: -1
-

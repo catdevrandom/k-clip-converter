@@ -1,4 +1,0 @@
-WARNING:
-Module GD is not installed in this system:
-Images won't be exported.
-
